@@ -14,4 +14,4 @@ Une application web permettant d’ajouter des membres à une liste, de génére
 
 Cette application est développée avec des technologies frontend.
 
-> Complète cette section avec les outils utilisés, par exemple : React, Vue, Angular, TypeScript ou Vite.
+> Outils utilisés : React, TypeScript & Vite.
